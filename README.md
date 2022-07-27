@@ -28,7 +28,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)\
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=rangular)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
