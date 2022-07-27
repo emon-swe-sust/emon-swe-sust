@@ -26,7 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)\
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -42,7 +42,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)\
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp; GitHub Analytics
 
