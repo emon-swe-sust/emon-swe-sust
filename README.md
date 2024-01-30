@@ -60,10 +60,6 @@
 </p>
 
 <br>
-<p align="centre">
-<img src='https://activity-graph.herokuapp.com/graph?username=emon-swe-sust&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true' />
-
-</p>
  <br> 
  <hr>
   <div align="center">
